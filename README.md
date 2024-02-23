@@ -1,4 +1,9 @@
-### Hi there <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="30px">, I am Nokky07
+### Hi there <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="30px">, I am Nokky07:
+![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCzzGpscAqcUi10T4u-sWyyg?style=social&label=YouTube%20Subscribers) ![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/NokkyMc?style=social) ![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCzzGpscAqcUi10T4u-sWyyg)
+
+
+
+
 
 <!--
 **Nokky07/Nokky07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
