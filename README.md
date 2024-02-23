@@ -2,7 +2,7 @@
 
 ---
 
-![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCzzGpscAqcUi10T4u-sWyyg?style=social&label=YouTube%20Subscribers) ![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/NokkyMc?style=social) ![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCzzGpscAqcUi10T4u-sWyyg)
+![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCzzGpscAqcUi10T4u-sWyyg?style=social&label=YouTube%20Subscribers) ![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCzzGpscAqcUi10T4u-sWyyg) ![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/NokkyMc?style=social) 
 
 A normal highschool kid where he works at his hardest to become an Software Engineer working with Python and starting to learn C. Great experiance with Python and HTML&CSS. Also more in the **toolbox** below.
 
