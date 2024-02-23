@@ -20,7 +20,24 @@ src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.sv
 src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="JS logo" width="50" height="50" /> <img
 src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" alt="C logo" width="50" height="50"/>
 
+---
 
+<img src="https://cdn.worldvectorlogo.com/logos/youtube-icon-5.svg" width="20" height="20"> | Latest YouTube Videos
+
+<!-- YOUTUBE-VIDEOS-LIST:START -->
+
+<!-- YOUTUBE-VIDEOS-LIST:END -->
+
+
+▶ [...more YouTube vidoes](https://www.youtube.com/channel/UCzzGpscAqcUi10T4u-sWyyg)
+
+---
+
+<img src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg" width="20" height="20"> | Latest Coding Updates
+
+▶ [...more coding updates on Replit](https://replit.com/@Nokky07)
+
+---
 <!--
 **Nokky07/Nokky07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
