@@ -1,3 +1,5 @@
+<!--Line 45-->
+
 ### Hi there <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="30px">, I am Nokky07:
 
 ---
@@ -38,6 +40,11 @@ src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" alt
 ▶ [...more coding updates on Replit](https://replit.com/@Nokky07)
 
 ---
+
+## &#x1f4c8; My GitHub Stats
+
+<a href="https://github.com/Nokky07/Nokky07">
+  <img align="center" src="https://github-readme-stats"
 <!--
 **Nokky07/Nokky07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
