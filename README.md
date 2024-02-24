@@ -10,9 +10,9 @@ I love creating programs as im planning to create tech content in the future, mo
 I managed to start my coding journey with my [Replit Account](https://replit.com/@Nokky07) and by watching first first Python tutorial, by [freeCodeCamp.org](https://www.youtube.com/watch?v=rfscVS0vtbw). In which from this I have advanced my Python coding skills. Looking foward to helping lots of people with my knowledge.
 
 <p align="left">
-      <a href="https://www.youtube.com/@nokky070">
+      <a href="https://www.youtube.com/@nokky070?sub_confirmation=1">
          <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCzzGpscAqcUi10T4u-sWyyg?color=%23E05D44&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/></a> 
-      <a href="https://www.youtube.com/@nokky070">
+      <a href="https://www.youtube.com/@nokky070?sub_confirmation=1">
          <img alt="youtube views" title="YouTube views" src="https://custom-icon-badges.demolab.com/youtube/channel/views/UCzzGpscAqcUi10T4u-sWyyg?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"/></a> 
       <a href="https://github.com/Nokky07?tab=followers">
          <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/Nokky07?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
@@ -27,11 +27,21 @@ I managed to start my coding journey with my [Replit Account](https://replit.com
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" />
 <img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
 <img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
-<img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" /> <img align="left" alt="C" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" alt="C logo" /> <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" /> <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" /><br />
+<img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" /> 
+<img align="left" alt="C" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" alt="C logo" /> 
+<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" /> 
+<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" />
+<br />
 
 #
 
 ### 📺 Latest YouTube Videos
+
+<!-- BEGIN YOUTUBE-CARDS -->
+[![Simple Calculator | Python Project for Beginners (01)](https://ytcards.demolab.com/?id=iMEsfgrDt7o&title=Simple+Calculator+|+Python+Project+for+Beginners+(01)&lang=en&timestamp=1708806600&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=360 "Simple Calculator | Python Project for Beginners (01)")](https://www.youtube.com/watch?v=iMEsfgrDt7o)
+<!-- END YOUTUBE-CARDS -->
+
+[<img src="https://custom-icon-badges.demolab.com/badge/-Subscribe%20For%20More-red?style=for-the-badge&logo=video&logoColor=white"/>](https://www.youtube.com/@nokky070?sub_confirmation=1)
 
 ## &#x1f4c8; My GitHub Stats
 
