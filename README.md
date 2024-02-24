@@ -3,43 +3,35 @@
 ---
 **`Software Development (Developer/Creator/Coding)`**
 
-![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCzzGpscAqcUi10T4u-sWyyg?style=social&label=YouTube%20Subscribers) ![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCzzGpscAqcUi10T4u-sWyyg) ![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/NokkyMc?style=social) 
-
-A normal highschool kid where he works at his hardest to become an Software Engineer working with Python and starting to learn C. Great experiance with Python and HTML&CSS. Also more in the **toolbox** below.
+A normal highschool kid where he works at his hardest to become an Software Engineer working with Python and starting to learn C. Great experiance with Python and HTML&CSS. Also more in the **Languages and Tools** below.
 
 I love creating programs as im planning to create tech content in the future, mostly on learning web developement and a simple little bit of JavaScript. **But** I also talk about other topics than just coding like games. I advice you follow me to stay up to date with my content.
 
 I managed to start my coding journey with my [Replit Account](https://replit.com/@Nokky07) and by watching first first Python tutorial, by [freeCodeCamp.org](https://www.youtube.com/watch?v=rfscVS0vtbw). In which from this I have advanced my Python coding skills. Looking foward to helping lots of people with my knowledge.
 
----
-
-🧰 Toolbox
-
-<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="Python logo" width="50" height="50" /> <img
-src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="HTML5 logo" width="50" height="50" /> <img
-src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="CSS3 logo" width="50" height="50" /> <img
-src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="JS logo" width="50" height="50" /> <img
-src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" alt="C logo" width="50" height="50"/>
-  <p align="left">
-    <a href=""
----
-
-<img src="https://cdn.worldvectorlogo.com/logos/youtube-icon-5.svg" width="20" height="20"> | Latest YouTube Videos
-
-<!-- YOUTUBE-VIDEOS-LIST:START -->
-
-<!-- YOUTUBE-VIDEOS-LIST:END -->
-
-
-▶ [...more YouTube vidoes](https://www.youtube.com/channel/UCzzGpscAqcUi10T4u-sWyyg)
+<p align="left">
+      <a href="https://www.youtube.com/@nokky070">
+         <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCzzGpscAqcUi10T4u-sWyyg?color=%23E05D44&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/></a> 
+      <a href="https://www.youtube.com/@nokky070">
+         <img alt="youtube views" title="YouTube views" src="https://custom-icon-badges.demolab.com/youtube/channel/views/UCzzGpscAqcUi10T4u-sWyyg?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"/></a> 
+      <a href="https://github.com/Nokky07?tab=followers">
+         <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/Nokky07?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+      <a href="https://github.com/Nokky07?tab=repositories&sort=stargazers">
+         <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/Nokky07?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
+   </p>
 
 ---
 
-<img src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg" width="20" height="20"> | Latest Coding Updates
+### 🧰 Languages and Tools
 
-▶ [...more coding updates on Replit](https://replit.com/@Nokky07)
+<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" />
+<img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
+<img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
+<img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" /> <img align="left" alt="C" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" alt="C logo" /> <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" /> <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" /><br />
 
----
+#
+
+
 
 ## &#x1f4c8; My GitHub Stats
 
