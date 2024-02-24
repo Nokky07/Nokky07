@@ -1,8 +1,7 @@
-<!--Line 45-->
-
 ### Hi there <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="30px">, I am Nokky07:
 
 ---
+**`Software Development (Developer/Creator/Coding)`**
 
 ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCzzGpscAqcUi10T4u-sWyyg?style=social&label=YouTube%20Subscribers) ![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCzzGpscAqcUi10T4u-sWyyg) ![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/NokkyMc?style=social) 
 
@@ -21,7 +20,8 @@ src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.
 src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="CSS3 logo" width="50" height="50" /> <img
 src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="JS logo" width="50" height="50" /> <img
 src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" alt="C logo" width="50" height="50"/>
-
+  <p align="left">
+    <a href=""
 ---
 
 <img src="https://cdn.worldvectorlogo.com/logos/youtube-icon-5.svg" width="20" height="20"> | Latest YouTube Videos
@@ -44,18 +44,12 @@ src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" alt
 ## &#x1f4c8; My GitHub Stats
 
 <a href="https://github.com/Nokky07/Nokky07">
-  <img align="center" src="https://github-readme-stats"
-<!--
-**Nokky07/Nokky07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?
+username=Nokky07&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
+<a href="https://github.com/Nokky07/Nokky07">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?
+username=Nokky07&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Nokky07's GitHub Stats" />
+</a>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nokky07)](https://github.com/anuraghazra/github-readme-stats)
