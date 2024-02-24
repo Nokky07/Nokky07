@@ -43,15 +43,18 @@ I managed to start my coding journey with my [Replit Account](https://replit.com
 
 [<img src="https://custom-icon-badges.demolab.com/badge/-Subscribe%20For%20More-red?style=for-the-badge&logo=video&logoColor=white"/>](https://www.youtube.com/@nokky070?sub_confirmation=1)
 
-## &#x1f4c8; My GitHub Stats
+#
 
-<a href="https://github.com/Nokky07/Nokky07">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?
-username=Nokky07&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>
-<a href="https://github.com/Nokky07/Nokky07">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?
-username=Nokky07&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Nokky07's GitHub Stats" />
-</a>
+### 📊 Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nokky07)](https://github.com/anuraghazra/github-readme-stats)
+![Nokky07's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nokky07&show_icons=true&theme=radical)
+
+
+#
+
+<details>
+ <summary><h3>👨‍💻 Nokky07's Coding Journey</h3></summary>
+   Coding Journey Coming Soon!
+
+[website]: https://google.com
+[youtube]: [https://youtube.com/nokky070](https://www.youtube.com/@nokky070)
