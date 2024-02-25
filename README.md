@@ -39,6 +39,7 @@ I managed to start my coding journey with my [Replit Account](https://replit.com
 
 <!-- BEGIN YOUTUBE-CARDS -->
 [![Simple Calculator | Python Project for Beginners (01)](https://ytcards.demolab.com/?id=iMEsfgrDt7o&title=Simple+Calculator+%7C+Python+Project+for+Beginners+%2801%29&lang=en&timestamp=1708803238&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Simple Calculator | Python Project for Beginners (01)")](https://www.youtube.com/watch?v=iMEsfgrDt7o)
+[![Display Date and Time | Python Project for Beginners (02)](https://ytcards.demolab.com/?id=VL6XrY9yO2M&title=Display+Date+and+Time+%7C+Python+Project+for+Beginners+%2801%29&lang=en&timestamp=1708870500&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Display Date and Time | Python Project for Beginners (02)")](https://www.youtube.com/watch?v=VL6XrY9yO2M)
 <!-- END YOUTUBE-CARDS -->
 
 [<img src="https://custom-icon-badges.demolab.com/badge/-Subscribe%20For%20More-red?style=for-the-badge&logo=video&logoColor=white"/>](https://www.youtube.com/@nokky070?sub_confirmation=1)
