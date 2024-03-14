@@ -1,3 +1,5 @@
+
+<a align="center" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=50&pause=1000&color=FF004F&center=true&vCenter=true&random=false&width=500&height=70&lines=Welcome!%F0%9F%91%8B;I'm+Nokky07!" alt="Typing SVG" /></a>
 ### Hi there <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="30px">, I am Nokky07:
 
 ---
