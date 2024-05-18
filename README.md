@@ -57,7 +57,17 @@ I managed to start my coding journey with my [Replit Account](https://replit.com
 
 <details>
  <summary><h3>👨‍💻 Nokky07's Coding Journey</h3></summary>
-   Coding Journey Coming Soon!
+   At eight years old, most kids were obsessed with cartoons. Me? I was hooked on the vibrant world of Scratch. Building wasn't with Legos anymore; it was with colorful code blocks. I remember the thrill of creating my first game – a frantic race against the clock where you dodged obstacles and collected stars. Each successful level solidified the magic: with code, I could turn imagination into reality.
+
+By eleven, the web's allure became too strong to resist. HTML and CSS became my new playgrounds. I vividly remember struggling for weeks to center a giant image on my first website, a neon-green homage to my favorite band. The frustration was real, but the triumphant "Aha!" moment when I cracked the code was pure magic.  Suddenly, the internet wasn't just a place to visit, it was a place I could build.
+
+Thirteen brought the intimidating yet intriguing world of Python. Gone were the colorful blocks, replaced by lines of text that seemed like hieroglyphics at first. But perseverance paid off. I dove headfirst into algorithms, building a program that cracked simple substitution ciphers – a secret code translator for aspiring spies like myself.  Python wasn't just about making things look cool; it was about making them work in a logical, powerful way.
+
+Now, the journey continues. JavaScript unlocks the door to web interactivity, letting my websites come alive with animations and user input. C, on the other hand, peels back the hood, revealing the raw power of the machine. It's challenging, like deciphering a foreign language, but every line I conquer brings me closer to understanding how computers truly tick.
+
+My trusty companion throughout this adventure has been Visual Studio Code (VS Code). From basic debugging to managing complex projects, VS Code has evolved alongside me. It's become an extension of my coding brain, no matter if I'm crafting a sleek website or venturing into the depths of system programming.
+
+Looking back, it's incredible how far I've come from those first wobbly steps in Scratch. Each language, each project, has been a stepping stone, building upon the last.  Next on my horizon? Mastering the art of building mobile apps with React Native. The future's a playground waiting to be coded, and I can't wait to see what I can create next.
 
 [website]: https://google.com
 [youtube]: [https://youtube.com/nokky070](https://www.youtube.com/@nokky070)
